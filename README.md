@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 04_38_55 PM" src="https://github.com/user-attachments/assets/bf66452d-49d4-4ed8-9708-17c382f3e505" />
+
 # AI-s-Financial-Market-Analysis-Using-Python
 Financial market analysis of AI companies using Python to evaluate R&amp;D spending, revenue growth, and stock impact through data visualization and exploratory data analysis.
 
